@@ -1,0 +1,6 @@
+{
+  "name": "AURA Joyería & Tech Atelier",
+  "description": "Boutique exclusiva de alta joyería contemporánea y accesorios de lujo para teléfonos inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
